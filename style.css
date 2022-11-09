@@ -10,7 +10,7 @@ body {
   color: rgb(53, 66, 89);
   padding: 50px;
   text-align: center;
-  margin: 25px auto;
+  margin: 20px auto;
 }
 
 h1 {
@@ -40,7 +40,7 @@ a:hover {
 
 #profile-pic {
   width: 100px;
-  height: 99px;
+  height: 99,5px;
 }
 
 .img-circle {
@@ -66,7 +66,7 @@ a:hover {
   padding-left: 0px;
 }
 
-@media (max-width: 960px) {
+@media (max-width: 1800px) {
 .container {
     width: 700px;
     margin: 40px auto;
