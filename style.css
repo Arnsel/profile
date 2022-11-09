@@ -66,7 +66,7 @@ a:hover {
   padding-left: 0px;
 }
 
-@media (max-width: 1800px) {
+@media (max-width: 180000px) {
 .container {
     width: 700px;
     margin: 40px auto;
